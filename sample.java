@@ -4,6 +4,7 @@ public class AsciiValue {
 
         char ch = 'a';
         char ch = 'b';
+        char ch = 'c';
         int ascii = ch;
         // You can also cast char to int
         int castAscii = (int) ch;
